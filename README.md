@@ -62,6 +62,8 @@ Error Handling
 Division by zero is not allowed and will result in an error message.
 Invalid operators will result in an error message and the program will terminate.
 Contributing
+
+contact(msrahul202077@gmail.com)
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
 Commit your changes (git commit -am 'Add new feature').
